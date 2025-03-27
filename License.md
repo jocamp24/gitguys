@@ -1,6 +1,3 @@
-# Git Guys Group Project
-Group Project between Drish Sethi Josue Campista using car sales data
-
 MIT License
 
 Copyright (c) 2025 San Francisco State University Decision Science Department
